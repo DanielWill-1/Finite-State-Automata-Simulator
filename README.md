@@ -1,10 +1,10 @@
-# 🌀 Finite State Automata Simulator
+#  Finite State Automata Simulator
 
 A visual and interactive **Finite State Automata (FSA) Simulator** built for educational and experimental purposes. It allows users to simulate both **Deterministic Finite Automata (DFA)** and **Non-deterministic Finite Automata (NFA)** with step-by-step visualization of transitions using **Graphviz**.
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 The simulator is designed to help users understand how DFA and NFA behave by visually tracing input strings through a given state machine.
 
@@ -15,17 +15,16 @@ Key components include:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Graphviz](https://img.shields.io/badge/Graphviz-Dot-blueviolet?logo=graphviz)
 ![Flask](https://img.shields.io/badge/Flask-WebApp-black?logo=flask)
 ![React](https://img.shields.io/badge/React-Frontend-61dafb?logo=react)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker)
 
 ---
 
-## ✨ Features
+##  Features
 
 - ✅ Simulate **DFA** and **NFA**
 - 🖼 Visualize states and transitions using **Graphviz**
@@ -36,7 +35,7 @@ Key components include:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### 1. Clone the repository
 
